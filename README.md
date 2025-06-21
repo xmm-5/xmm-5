@@ -1,5 +1,12 @@
 # 🧠 xmm5
 
+
+## 🌐 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/xmm-5/count.svg)
+
+---
+
 I’m **xmm5**, a dev who codes in **C++**, **C#**, and more.
 
 I make:
@@ -10,16 +17,6 @@ I make:
 Currently learning **game reversal**.
 
 ---
-
-## 📡 contact
-
-Discord: `xmm5`
-
----
-
-## 🌐 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/xmm-5/count.svg)
 
 ## 📫 Contact / Links
 - 💻 Discord: xmm5
