@@ -1,35 +1,35 @@
 # 🧠 xmm5
 
-i’m **xmm5**, a dev who codes in **C++**, **C#**, and more.
+I’m **xmm5**, a dev who codes in **C++**, **C#**, and more.
 
-i make:
-- cheats  
-- multi-tools for hacking  
-- discord bots (now and then)
+I make:
+- Cheats  
+- Multi-tools for hacking  
+- Discord bots (now and then)
 
-currently learning **reversing games**.
+Currently learning **reversing games**.
 
 ---
 
-## 🔥 featured project
+## 🔥 Featured Project
 
 **[xWare](https://github.com/xmm-5/xWare)** — external cheat for Rainbow Six: Siege  
-includes no recoil, rapid fire, crouch macro, and a Glaz triggerbot
+Includes no recoil, rapid fire, crouch macro, and a Glaz triggerbot.
 
 ---
 
-## 📡 contact
+## 📡 Contact
 
-discord: `xmm5`
+Discord: `xmm5`
 
 ---
 
-> code it yourself.
+> Code it yourself.
 
 ## 🌐 Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/xmm-5/count.svg)
 
 ## 📫 Contact / Links
-- 💻 Discord: xmm5
+- 💻 Discord: xmm5  
 - 📹 YouTube: https://www.youtube.com/@xmm5
