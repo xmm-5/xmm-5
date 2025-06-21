@@ -25,3 +25,11 @@ discord: `xmm5`
 ---
 
 > code it yourself.
+
+## 🌐 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/xmm-5/count.svg)
+
+## 📫 Contact / Links
+- 💻 Discord: xmm5
+- 📹 YouTube: https://www.youtube.com/@xmm5
