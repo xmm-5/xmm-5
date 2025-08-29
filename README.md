@@ -1,6 +1,6 @@
 ## 🌐 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/xmm-5/count.svg)
+<img src="https://profile-counter.deno.dev/:xmm5:/count.svg" alt="xmm5 :: Visitor's Count" />
 
 ---
 
